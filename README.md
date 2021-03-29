@@ -19,7 +19,7 @@ Project is created using:
 * Third party API (jQuery, jQuery moment, Bootstrap)
 
 ## **_Mockup_**
-
+![Screen Shot 2021-03-28 at 11 25 26 PM](https://user-images.githubusercontent.com/78329298/112795131-ea573580-901c-11eb-8973-cb43fa1aebad.png)
 
 ## **_Link URL to deployed app on GitHub_**
 https://noemiegrau.github.io/weather-dashboard/
