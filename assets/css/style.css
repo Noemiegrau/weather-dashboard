@@ -1,9 +1,9 @@
 /* CSS DIRECTORY
-	1. =GLOBAL
-	2. =HEADER
-	3. =
-    4. =
-    5. =
+    1. =GLOBAL
+    2. =HEADER
+    3. =SEARCH SECTION
+    4. =CURRENT CITY
+    5. =FORECAST
 */
 
 /* ===1.GLOBAL=== */
@@ -17,12 +17,38 @@
 
 nav {
     color: white;
+    font-size: 46px;
+    text-align: center;
 }
+
+/* ===3.SEARCH SECTION=== */
 
 #search-section {
     background-color: rgb(240, 252, 252);
 }
 
+/* ===4.CURRENT CITY=== */
+
+.city {
+    border: none;
+}
+
+.card-city {
+    border: none;
+}
+
+/* ===5.FORECAST=== */
+
 .cbforecast {
     margin: 20px;
 }
+
+
+.main-container {
+    padding-bottom: 20px;
+}
+
+.row-blue {
+    background-color: rgb(240, 252, 252);
+}
+
